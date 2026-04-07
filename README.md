@@ -1,3 +1,7 @@
+<div align="center">
+  <h1>Hi 👋, I'm Patrick <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/158.gif" width="50" alt="Totodile"></h1>
+</div>
+
 <h3 align="center">A passionate developer & Information Systems student at UFPI (Picos, PI - Brasil 🇧🇷)</h3>
 
 <p align="center">
