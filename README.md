@@ -7,39 +7,7 @@
          style="display: inline-block; animation: float 3s ease-in-out infinite;"
          alt="Rayquaza">
   </h1>
-</div>
 
-<style>
-  @keyframes wave {
-    0% { transform: rotate(0deg); }
-    20% { transform: rotate(14deg); }
-    40% { transform: rotate(-8deg); }
-    60% { transform: rotate(14deg); }
-    80% { transform: rotate(-4deg); }
-    100% { transform: rotate(0deg); }
-  }
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-8px); }
-    100% { transform: translateY(0px); }
-  }
-  @keyframes glow {
-    0% { text-shadow: 0 0 2px #00aaff; }
-    50% { text-shadow: 0 0 12px #00aaff, 0 0 5px #0088cc; }
-    100% { text-shadow: 0 0 2px #00aaff; }
-  }
-  .animated-badge {
-    transition: all 0.2s ease;
-  }
-  .animated-badge:hover {
-    transform: scale(1.05);
-    filter: brightness(1.1);
-  }
-  .section-title {
-    animation: glow 2s infinite;
-    font-weight: bold;
-  }
-</style>
 
 ### 🐉 <span class="section-title">About Me</span>
 
