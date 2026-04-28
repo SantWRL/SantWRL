@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/132"
          width="100"
          style="display: inline-block; animation: float 3s ease-in-out infinite;"
-         alt="Rayquaza">
+         alt="ditto">
   </h1>
 
 
