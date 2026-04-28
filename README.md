@@ -36,5 +36,5 @@
     <img src="https://skillicons.dev/icons?i=py,c,cpp,ruby,js,nodejs,html,css,aws,docker&theme=dark&perline=10" alt="My Skills" />
   </a>
 </p>
-**https://SantWRL.github.io/SantWRL/**
+https://SantWRL.github.io/SantWRL/
 <br>
