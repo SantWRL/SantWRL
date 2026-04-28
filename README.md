@@ -2,7 +2,7 @@
   <h1>
     <span style="display: inline-block; animation: wave 1.5s infinite; transform-origin: 70% 70%;">👋</span>
     Hi, I'm Patrick
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif"
+    <img src= "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/380.gif"
          width="100"
          style="display: inline-block; animation: float 3s ease-in-out infinite;"
          alt="Rayquaza">
