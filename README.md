@@ -33,7 +33,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantWRL/SantWRL/output/snake.svg">
   <img alt="snake gif" src="https://raw.githubusercontent.com/SantWRL/SantWRL/output/snake.svg">
 </picture>
----
 
 ### 🤝 Connect with me
 
@@ -50,5 +49,4 @@
 </p>
 
 <br />
----
 
