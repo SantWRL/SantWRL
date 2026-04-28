@@ -1,6 +1,6 @@
   <h1>Hi 👋, I'm Patrick <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif" width="120" alt="Rayquaza"></h1>
 </div>
-
+---
 ### 🐉 About Me
 
 - 🎓 Currently studying **Information Systems** at the Federal University of Piauí (UFPI).
@@ -19,15 +19,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantWRL/SantWRL/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantWRL/SantWRL/output/snake.svg">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/SantWRL/SantWRL/output/snake.svg">
-</picture>
 
 ### 🤝 Connect with me
 
