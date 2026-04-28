@@ -27,12 +27,12 @@
 
 ### 📊 GitHub Stats 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantWRL/SantWRL/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantWRL/SantWRL/output/github-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SantWRL/SantWRL/output/github-snake.svg">
-</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantWRL/SantWRL/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantWRL/SantWRL/output/snake.svg">
+  <img alt="snake gif" src="https://raw.githubusercontent.com/SantWRL/SantWRL/output/snake.svg">
+</picture>
 ---
 
 ### 🤝 Connect with me
