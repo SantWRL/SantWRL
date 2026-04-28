@@ -1,9 +1,4 @@
-  <h1>Hi 👋, I'm Patrick <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif" width="80" alt="Rayquaza"></h1>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Python%20%26%20Scalability-2ecc71?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Location-Picos,%20PI%20-%20BR-d4af37?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  </p>
+  <h1>Hi 👋, I'm Patrick <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif" width="120" alt="Rayquaza"></h1>
 </div>
 
 ### 🐉 About Me
