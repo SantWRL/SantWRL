@@ -1,12 +1,52 @@
-  <h1>Hi 👋, I'm Patrick <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif" width="120" alt="Rayquaza"></h1>
+<div align="center">
+  <h1>
+    <span style="display: inline-block; animation: wave 1.5s infinite; transform-origin: 70% 70%;">👋</span>
+    Hi, I'm Patrick
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif"
+         width="100"
+         style="display: inline-block; animation: float 3s ease-in-out infinite;"
+         alt="Rayquaza">
+  </h1>
 </div>
 
-### 🐉 About Me
+<style>
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    20% { transform: rotate(14deg); }
+    40% { transform: rotate(-8deg); }
+    60% { transform: rotate(14deg); }
+    80% { transform: rotate(-4deg); }
+    100% { transform: rotate(0deg); }
+  }
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-8px); }
+    100% { transform: translateY(0px); }
+  }
+  @keyframes glow {
+    0% { text-shadow: 0 0 2px #00aaff; }
+    50% { text-shadow: 0 0 12px #00aaff, 0 0 5px #0088cc; }
+    100% { text-shadow: 0 0 2px #00aaff; }
+  }
+  .animated-badge {
+    transition: all 0.2s ease;
+  }
+  .animated-badge:hover {
+    transform: scale(1.05);
+    filter: brightness(1.1);
+  }
+  .section-title {
+    animation: glow 2s infinite;
+    font-weight: bold;
+  }
+</style>
 
-- 🎓 Currently studying **Information Systems** at the Federal University of Piauí (UFPI).
-- 🐍 Deep expertise in **Python** with solid knowledge across various tools and frameworks.
-- ⚙️ Comfortable working with both low-level programming (C/C++) and cloud/container environments (AWS, Docker).
-- 🌱 Always eager to learn new technologies and build projects that solve real-world problems.
+### 🐉 <span class="section-title">About Me</span>
+
+- 🎓 <span style="display: inline-block; animation: float 2s ease-in-out infinite;">📚</span> Currently studying **Information Systems** at the Federal University of Piauí (UFPI).
+- 🐍 <span style="display: inline-block; animation: float 2s ease-in-out infinite 0.3s;">⚡</span> Deep expertise in **Python** with solid knowledge across various tools and frameworks.
+- ⚙️ <span style="display: inline-block; animation: float 2s ease-in-out infinite 0.6s;">🐳</span> Comfortable with low-level programming (C/C++) and cloud/container environments (AWS, Docker).
+- 🌱 <span style="display: inline-block; animation: float 2s ease-in-out infinite 0.9s;">✨</span> Always eager to learn new technologies and build projects that solve real-world problems.
 
 ---
 
@@ -14,7 +54,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,ruby,js,nodejs,html,css,aws,docker,linux,git&theme=dark&perline=12" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,ruby,js,nodejs,html,css,aws,docker,linux,git&theme=dark&perline=12"
+         alt="My Skills"
+         style="transition: all 0.2s;"
+         onmouseover="this.style.transform='scale(1.02)'"
+         onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
 
@@ -23,16 +67,20 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://github.com/SantWRL" target="_blank">
+  <a href="https://github.com/SantWRL" target="_blank" class="animated-badge">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:patricklx77@gmail.com" target="_blank">
+  <a href="mailto:patricklx77@gmail.com" target="_blank" class="animated-badge">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://santwrl.github.io/SantWRL/" target="_blank">
+  <a href="https://santwrl.github.io/SantWRL/" target="_blank" class="animated-badge">
     <img src="https://img.shields.io/badge/Portfolio-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 <br />
 
+<!-- Efeito extra: linha com gradiente animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0044aa&height=120&section=footer&text=&fontSize=0" width="100%" />
+</div>
